@@ -16,5 +16,6 @@ Step 4:-
         It will display an interface 
         To select a file 
             we need to select the file need to encrypt or to decrypt it should be a test file only
+            
 Step 5:-
         After selecting we need to enter a password.And then the file is encrypted or decrypted.
