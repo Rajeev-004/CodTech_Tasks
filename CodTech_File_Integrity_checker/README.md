@@ -47,3 +47,7 @@ Step 4:-    CHECK FILE INTEGRITY (OPTION 2)
         > compare the current file hashes with the saved onces
 
         > Tell us which file are unchanged, changed, or missing
+
+OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/9ddbfe85-3423-4af9-90e9-3b33c429b733)
