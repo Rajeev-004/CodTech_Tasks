@@ -66,3 +66,6 @@ Step 12:-
         Enter 4 to exit this process
 
 
+OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/b688af75-b255-4bf8-8790-b98da1ebe7af)
