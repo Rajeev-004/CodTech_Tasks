@@ -22,6 +22,5 @@ Step 5:-
 
 OUTPUT:-
 
-
-        ![Image](https://github.com/user-attachments/assets/871ded41-9ea1-408c-9c27-4ed8ab823605)
+        ![Image](https://github.com/user-attachments/assets/3d4e327a-2002-4995-9e84-03223d021167)
 
