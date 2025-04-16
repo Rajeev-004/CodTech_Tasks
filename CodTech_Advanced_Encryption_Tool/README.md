@@ -20,7 +20,4 @@ Step 4:-
 Step 5:-
         After selecting we need to enter a password.And then the file is encrypted or decrypted.
 
-OUTPUT:-
-
-![Image](https://github.com/user-attachments/assets/3d4e327a-2002-4995-9e84-03223d021167)
 
