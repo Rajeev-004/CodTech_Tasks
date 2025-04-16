@@ -17,3 +17,7 @@ Step 4:-
         
 Step 5:-
         Enter the target URL and it will start a vulnerability scan
+
+OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/1cfe4fc1-2bcc-465b-86d3-0a8e762af461)
